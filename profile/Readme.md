@@ -23,4 +23,4 @@ Our mission is to foster a community of passionate learners and problem solvers,
 
 ## Getting Started
 
-If you're interested in joining the Microsoft Learn Student Club VIIT Pune or want to know more about our upcoming events and activities, feel free to reach out to us via email at microsoftlearnstudentclubvii
+If you're interested in joining the Microsoft Learn Student Club VIIT Pune or want to know more about our upcoming events and activities, feel free to reach out to us via email at microsoftlearnstudentclubviit@gmail.com
